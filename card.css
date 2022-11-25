@@ -1,11 +1,14 @@
 body {
-  margin: 20px;
+  margin: 200px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(114, 103, 85);
+  place-content: center;
 }
 
 .avatar {
   width: 150px;
+  border-radius: 14px;
 }
 
 .card {
@@ -16,5 +19,14 @@ body {
   margin: 0 auto;
   background: #ddebf8;
   color: #2b2839;
-  border-bottom: 6px solid #d8cefe;
+  border-bottom: 8px solid #d8cefe;
+  border-left: #5a4203 3px solid;
+  border-right: #5a4203 3px solid;
+  border-top: #5a4203 3px solid;
+  border-radius: 14px;
+}
+
+.itext {
+  margin-top: 20px;
+  font-size: large;
 }
