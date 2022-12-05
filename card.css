@@ -2,7 +2,7 @@ body {
   margin: 200px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: rgb(114, 103, 85);
+  background-color: rgb(199, 147, 177);
   place-content: center;
 }
 
@@ -24,6 +24,7 @@ body {
   border-right: #5a4203 3px solid;
   border-top: #5a4203 3px solid;
   border-radius: 14px;
+  box-shadow: 10px 12px 12px 10px rgba(212, 68, 169, 0.4);
 }
 
 .itext {
